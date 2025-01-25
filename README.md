@@ -58,12 +58,3 @@ To run this project locally, you will need:
 Click on the buttons to input numbers and operators.
 Use the = button to get the result.
 The clear button deletes the last input, and the reset button clears the entire display.
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
-## Acknowledgements
-Deployed using Vercel.
-Thanks to all contributors and users for their support.
-
-
-#### Feel free to customize this README file to include any additional information specific to your project
